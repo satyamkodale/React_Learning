@@ -1,0 +1,18 @@
+.calculator
+{
+  
+  border: 5px solid black;
+  width: 200px;
+  border-radius: 5px;
+  
+}
+
+
+
+.button
+{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+
+}
